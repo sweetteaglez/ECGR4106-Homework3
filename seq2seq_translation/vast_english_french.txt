@@ -1,0 +1,555 @@
+I am cold	J'ai froid
+You are tired	Tu es fatigué
+He is hungry	Il a faim
+She is happy	Elle est heureuse
+We are friends	Nous sommes amis
+They are students	Ils sont étudiants
+The cat is sleeping	Le chat dort
+The sun is shining	Le soleil brille
+We love music	Nous aimons la musique
+She speaks French fluently	Elle parle français couramment
+He enjoys reading books	Il aime lire des livres
+They play soccer every weekend	Ils jouent au football chaque week-end
+The movie starts at 7 PM	Le film commence à 19 heures
+She wears a red dress	Elle porte une robe rouge
+We cook dinner together	Nous cuisinons le dîner ensemble
+He drives a blue car	Il conduit une voiture bleue
+They visit museums often	Ils visitent souvent des musées
+The restaurant serves delicious food	Le restaurant sert une délicieuse cuisine
+She studies mathematics at university	Elle étudie les mathématiques à l'université
+We watch movies on Fridays	Nous regardons des films le vendredi
+He listens to music while jogging	Il écoute de la musique en faisant du jogging
+They travel around the world	Ils voyagent autour du monde
+The book is on the table	Le livre est sur la table
+She dances gracefully	Elle danse avec grâce
+We celebrate birthdays with cake	Nous célébrons les anniversaires avec un gâteau
+He works hard every day	Il travaille dur tous les jours
+They speak different languages	Ils parlent différentes langues
+The flowers bloom in spring	Les fleurs fleurissent au printemps
+She writes poetry in her free time	Elle écrit de la poésie pendant son temps libre
+We learn something new every day	Nous apprenons quelque chose de nouveau chaque jour
+The dog barks loudly	Le chien aboie bruyamment
+He sings beautifully	Il chante magnifiquement
+They swim in the pool	Ils nagent dans la piscine
+The birds chirp in the morning	Les oiseaux gazouillent le matin
+She teaches English at school	Elle enseigne l'anglais à l'école
+We eat breakfast together	Nous prendons le petit déjeuner ensemble
+He paints landscapes	Il peint des paysages
+They laugh at the joke	Ils rient de la blague
+The clock ticks loudly	L'horloge tic-tac bruyamment
+She runs in the park	Elle court dans le parc
+We travel by train	Nous voyageons en train
+He writes a letter	Il écrit une lettre
+They read books at the library	Ils lisent des livres à la bibliothèque
+The baby cries	Le bébé pleure
+She studies hard for exams	Elle étudie dur pour les examens
+We plant flowers in the garden	Nous plantons des fleurs dans le jardin
+He fixes the car	Il répare la voiture
+They drink coffee in the morning	Ils boivent du café le matin
+The sun sets in the evening	Le soleil se couche le soir
+She dances at the party	Elle danse à la fête
+We play music at the concert	Nous jouons de la musique au concert
+He cooks dinner for his family	Il cuisine le dîner pour sa famille
+They study French grammar	Ils étudient la grammaire française
+The rain falls gently	La pluie tombe doucement
+She sings a song	Elle chante une chanson
+We watch a movie together	Nous regardons un film ensemble
+He sleeps deeply	Il dort profondément
+They travel to Paris	Ils voyagent à Paris
+The children play in the park	Les enfants jouent dans le parc
+She walks along the beach	Elle se promène le long de la plage
+We talk on the phone	Nous parlons au téléphone
+He waits for the bus	Il attend le bus
+They visit the Eiffel Tower	Ils visitent la tour Eiffel
+The stars twinkle at night	Les étoiles scintillent la nuit
+She dreams of flying	Elle rêve de voler
+We work in the office	Nous travaillons au bureau
+He studies history	Il étudie l'histoire
+They listen to the radio	Ils écoutent la radio
+The wind blows gently	Le vent souffle doucement
+She swims in the ocean	Elle nage dans l'océan
+We dance at the wedding	Nous dansons au mariage
+He climbs the mountain	Il gravit la montagne
+They hike in the forest	Ils font de la randonnée dans la forêt
+The cat meows loudly	Le chat miaule bruyamment
+She paints a picture	Elle peint un tableau
+We build a sandcastle	Nous construisons un château de sable
+He sings in the choir	Il chante dans le chœur
+Where is the station?	Où est la gare ?
+How are you?	Comment ça va ?
+What time is it?	Quelle heure est-il ?
+My phone is broken	Mon téléphone est cassé
+The water is cold	L'eau est froide
+Open the door	Ouvrez la porte
+Close the window	Fermez la fenêtre
+I love this song	J'aime cette chanson
+We live in a big house	Nous habitons dans une grande maison
+He drinks tea every morning	Il boit du thé tous les matins
+She drives a fast car	Elle conduit une voiture rapide
+They watch the night sky	Ils regardent le ciel nocturne
+The children love chocolate	Les enfants adorent le chocolat
+The teacher speaks slowly	L'enseignant parle lentement
+I want to learn Spanish	Je veux apprendre l'espagnol
+We are lost in the city	Nous sommes perdus dans la ville
+The museum is closed today	Le musée est fermé aujourd'hui
+He bought a new bicycle	Il a acheté une nouvelle bicyclette
+She makes delicious cakes	Elle fait de délicieux gâteaux
+They listen to classical music	Ils écoutent de la musique classique
+The sky is clear tonight	Le ciel est dégagé ce soir
+The dog catches the ball	Le chien attrape la balle
+We are waiting for the train	Nous attendons le train
+He reads the newspaper	Il lit le journal
+She visits her grandparents	Elle visite ses grands-parents
+They work in a modern factory	Ils travaillent dans une usine moderne
+The flower has a nice smell	La fleur a une bonne odeur
+I need some help	J'ai besoin d'aide
+You speak too fast	Tu parles trop vite
+It is raining cats and dogs	Il pleut des cordes
+The computer is fast	L'ordinateur est rapide
+We enjoy playing video games	Nous aimons jouer à des jeux vidéo
+She lost her keys	Elle a perdu ses clés
+He works as a software engineer	Il travaille comme ingénieur logiciel
+They are buying a new apartment	Ils achètent un nouvel appartement
+The pizza tastes good	La pizza a bon goût
+I forgot my umbrella	J'ai oublié mon parapluie
+We swim during summer	Nous nageons pendant l'été
+The keys are on the desk	Les clés sont sur le bureau
+He likes to take pictures	Il aime prendre des photos
+She goes to the gym regularly	Elle va régulièrement à la salle de sport
+They speak with an accent	Ils parlent avec un accent
+The birds are building a nest	Les oiseaux construisent un nid
+I want a cup of hot tea	Je veux une tasse de thé chaud
+We crossed the old bridge	Nous avons traversé le vieux pont
+The market sells fresh vegetables	Le marché vend des légumes frais
+He finished his homework quickly	Il a fini ses devoirs rapidement
+She wears a silver necklace	Elle porte un collier en argent
+They went to the cinema last night	Ils sont allés au cinéma hier soir
+The train arrives on time	Le train arrive à l'heure
+I look forward to meeting you	J'ai hâte de vous rencontrer
+You have a beautiful smile	Tu as un beau sourire
+The bread is fresh from the bakery	Le pain est frais de la boulangerie
+We visited the ancient ruins	Nous avons visité les ruines antiques
+He answers all the questions	Il répond à toutes les questions
+She paints her room white	Elle peint sa chambre en blanc
+They share their lunch	Ils partagent leur déjeuner
+The coffee machine is broken	La machine à café est en panne
+I see a rainbow in the sky	Je vois un arc-en-ciel dans le ciel
+We walk in the countryside	Nous marchons à la campagne
+The project takes a lot of time	Le projet prend beaucoup de temps
+He teaches biology to teenagers	Il enseigne la biologie aux adolescents
+She is looking for a new job	Elle cherche un nouvel emploi
+They practice piano every afternoon	Ils pratiquent le piano tous les après-midi
+The soup is very hot	La soupe est très chaude
+I am reading an interesting novel	Je lis un roman intéressant
+We celebrated our anniversary	Nous avons célébré notre anniversaire
+The map is difficult to understand	La carte est difficile à comprendre
+He cleans his room every Saturday	Il nettoie sa chambre chaque samedi
+She won a gold medal	Elle a remporté une médaille d'or
+They often talk about politics	Ils parlent souvent de politique
+The cat climbs the tall tree	Le chat grimpe sur le grand arbre
+I will call you later	Je t'appellerai plus tard
+We need to buy some milk	Nous devons acheter du lait
+The performance was outstanding	La performance était remarquable
+He speaks three languages fluently	Il parle couramment trois langues
+She works from home on Thursdays	Elle travaille à domicile le jeudi
+They live near a beautiful lake	Ils vivent près d'un beau lac
+The window offers a nice view	La fenêtre offre une belle vue
+I received a package this morning	J'ai reçu un colis ce matin
+We visited the famous museum	Nous avons visité le célèbre musée
+The dynamic landscape is beautiful	Le paysage dynamique est magnifique
+He writes articles for a magazine	Il écrit des articles pour un magazine
+She cooks traditional dishes	Elle cuisine des plats traditionnels
+They play basketball after school	Ils jouent au basket après l'école
+The ice cream is melting	La glace fond
+I lost my way in the forest	Je me suis perdu dans la forêt
+We are planning a trip to Japan	Nous planifions un voyage au Japon
+The doctor advised me to rest	Le médecin m'a conseillé de me reposer
+He plays guitar in a local band	Il joue de la guitare dans un groupe local
+She translates text from English to French	Elle traduit du texte de l'anglais au français
+They feed the ducks in the pond	Ils nourrissent les canards dans l'étang
+The mirror reflects the light	Le miroir reflète la lumière
+I enjoy walking in the rain	J'aime marcher sous la pluie
+We are going to the beach tomorrow	Nous allons à la plage demain
+The library has thousands of books	La bibliothèque contient des milliers de livres
+He drives a red motorcycle	Il conduit une moto rouge
+She loves to wear colorful hats	Elle adore porter des chapeaux colorés
+They built a small wooden cabin	Ils ont construit une petite cabane en bois
+The winter is very cold here	L'hiver est très froid ici
+Please pass me the salt	S'il vous plaît, passez-moi le sel
+The child is drawing a house	L'enfant dessine une maison
+We are going to buy groceries	Nous allons faire des courses
+He left his wallet at home	Il a laissé son portefeuille à la maison
+She speaks English with confidence	Elle parle anglais avec assurance
+They are watching a football match	Ils regardent un match de football
+The teacher answers the question	L'enseignant répond à la question
+I enjoy listening to jazz music	J'aime écouter de la musique de jazz
+We need a bigger table	Nous avons besoin d'une plus grande table
+The weather is perfect today	Le temps est parfait aujourd'hui
+He wants to become a doctor	Il veut devenir médecin
+She wears a warm winter coat	Elle porte un manteau d'hiver chaud
+They traveled to Italy last summer	Ils ont voyagé en Italie l'été dernier
+The dog is sleeping on the rug	Le chien dort sur le tapis
+I have an important meeting tomorrow	J'ai une réunion importante demain
+We love eating fresh fruit	Nous adorons manger des fruits frais
+The store opens early in the morning	Le magasin ouvre tôt le matin
+He writes stories for children	Il écrit des histoires pour enfants
+She works at a software company	Elle travaille dans une entreprise de logiciels
+They are building a new school	Ils construisent une nouvelle école
+The soup tastes delicious	La soupe est délicieuse
+I need to charge my phone	Je dois charger mon téléphone
+We went for a walk in the woods	Nous sommes allés nous promener dans les bois
+The keys are missing	Les clés ont disparu
+He likes to play chess	Il aime jouer aux échecs
+She practices yoga every morning	Elle pratique le yoga tous les matins
+They speak French at home	Ils parlent français à la maison
+The birds sing in the trees	Les oiseaux chantent dans les arbres
+I want to drink a glass of milk	Je veux boire un verre de lait
+We crossed the river by boat	Nous avons traversé la rivière en bateau
+The restaurant is very busy tonight	Le restaurant est très fréquenté ce soir
+He finished his book yesterday	Il a fini son livre hier
+She wears a beautiful gold ring	Elle porte une belle bague en or
+They go to the beach every summer	Ils vont à la plage chaque été
+The train leaves at noon	Le train part à midi
+I look forward to the weekend	J'attends le week-end avec impatience
+You have a very nice house	Vous avez une très belle maison
+The bread is hot	Le pain est chaud
+We visited the ancient castle	Nous avons visité le château antique
+He answers the phone quickly	Il répond rapidement au téléphone
+She paints her nails red	Elle se peint les ongles en rouge
+They share their secrets	Ils partagent leurs secrets
+The coffee is too hot to drink	Le café est trop chaud pour être bu
+I see a plane in the sky	Je vois un avion dans le ciel
+We walk to school together	Nous allons à l'école ensemble
+The project requires a lot of effort	Le projet demande beaucoup d'efforts
+He teaches mathematics to children	Il enseigne les mathématiques aux enfants
+She is looking for her lost dog	Elle cherche son chien perdu
+They practice soccer every evening	Ils s'entraînent au football tous les soirs
+The tea is very sweet	Le thé est très sucré
+I am reading a classic novel	Je lis un roman classique
+We celebrated his graduation	Nous avons célébré sa remise de diplôme
+The instructions are easy to follow	Les instructions sont faciles à suivre
+He cleans his bicycle on Sundays	Il nettoie sa bicyclette le dimanche
+She won a tennis match	Elle a gagné un match de tennis
+They often talk about history	Ils parlent souvent d'histoire
+The monkey climbs the banana tree	Le simge grimpe sur le bananier
+I will visit you tomorrow	Je te rendrai visite demain
+We need to buy some bread	Nous devons acheter du pain
+The concert was spectacular	Le concert était spectaculaire
+He speaks four languages fluently	Il parle couramment quatre langues
+She works part-time at the library	Elle travaille à temps partiel à la bibliothèque
+They live in a small village	Ils vivent dans un petit village
+The door has a secure lock	La porte a une serrure sécurisée
+I received a letter from my friend	J'ai reçu une lettre de mon ami
+We visited the historic monument	Nous avons visité le monument historique
+The autumn leaves are beautiful	Les feuilles d'automne sont magnifiques
+He writes scripts for movies	Il écrit des scénarios pour des films
+She cooks a delicious dinner	Elle cuisine un délicieux dîner
+They play volleyball on the beach	Ils jouent au volley-ball sur la plage
+The ice is melting quickly	La glace fond rapidement
+I lost my keys in the grass	J'ai perdu mes clés dans l'herbe
+We are planning a trip to London	Nous planifions un voyage à Londres
+The nurse advised him to sleep	L'infirmière lui a couseeillé de dormir
+He plays drums in a rock band	Il joue de la batterie dans un groupe de rock
+She translates technical documents	Elle traduit des documents techniques
+They feed the birds in the park	Ils nourrissent les oiseaux dans le parc
+The ocean reflects the blue sky	L'océan reflète le ciel bleu
+I enjoy walking in the snow	J'aime marcher dans la neige
+We are going to the museum tomorrow	Nous allons au musée demain
+The library is a quiet place	La bibliothèque est un endroit calme
+He drives a green truck	Il conduit un camion vert
+She loves to wear long skirts	Elle adore porter des jupes longues
+They built a large brick house	Ils ont construit une grande maison en brique
+The summer is very hot here	L'été est très chaud ici
+Turn left at the intersection	Tournez à gauche à l'intersection
+Please close the gate	S'il vous plaît, fermez la barrière
+He is looking for his glasses	Il cherche ses lunettes
+She bought a beautiful painting	Elle a acheté un beau tableau
+We watched the sunrise this morning	Nous avons regardé le lever du soleil ce matin
+They listen to the teacher attentively	Ils écoutent l'enseignant attentivement
+The water in the lake is clear	L'eau du lac est claire
+I want to eat an apple	Je veux manger une pomme
+We are ready to start the game	Nous sommes prêts à commencer le jeu
+He forgot his password	Il a oublié son mot de passe
+She works in a laboratory	Elle travaille dans un laboratoire
+They built a campfire last night	Ils ont fait un feu de camp hier soir
+The bread smells wonderful	Le pain sent merveilleusement bon
+I need a new pair of shoes	J'ai besoin d'une nouvelle paire de chaussures
+We are going to visit our aunt	Nous allons rendre visite à notre tante
+He likes to read science fiction	Il aime lire de la science-fiction
+She practices the violin every day	Elle joue du violon tous les jours
+They speak Spanish fluently	Ils parlent espagnol couramment
+The squirrels gather nuts for winter	Les écureuils ramassent des noisettes pour l'hiver
+I want a hot cup of coffee	Je veux une tasse de café chaud
+We crossed the desert by camel	Nous avons traversé le désert à dos de chameau
+The hotel is very comfortable	L'hôtel est très confortable
+He finished his test early	Il a fini son test en avance
+She wears a diamond necklace	Elle porte un collier de diamants
+They go skiing every winter	Ils vont skier chaque hiver
+The bus arrives at five o'clock	Le bus arrive à cinq heures
+I look forward to the holidays	J'attends les vacances avec impatience
+You have a beautiful garden	Vous avez un magnifique jardin
+The milk is cold	Le lait est froid
+We visited the ancient pyramid	Nous avons visité la pyramide antique
+He answers the email immediately	Il répond immédiatement à l'e-mail
+She paints her bedroom blue	Elle peint sa chambre en bleu
+They share their toys	Ils partagent leurs jouets
+The tea is too sweet to drink	Le thé est trop sucré pour être bu
+I see a ship in the distance	Je vois un navire au loin
+We walk through the park together	Nous marchons dans le parc ensemble
+The assignment requires research	Le devoir nécessite des recherches
+He teaches chemistry to university students	Il enseigne la chimie aux étudiants universitaires
+She is looking for her cat	Elle cherche son chat
+They practice running every morning	Ils s'entraînent à la course tous les matins
+The coffee is very strong	Le café est très fort
+I am reading a modern novel	Je lis un roman moderne
+We celebrated their wedding	Nous avons célébré leur mariage
+The guide is easy to read	Le guide est facile à lire
+He cleans his desk every evening	Il nettoie son bureau chaque soir
+She won a chess tournament	Elle a gagné un tournoi d'échecs
+They often talk about fashion	Ils parlent souvent de mode
+The koala climbs the eucalyptus tree	Le koala grimpe sur l'eucalyptus
+I will fix it tomorrow	Je le réparerai demain
+We need to buy some eggs	Nous devons acheter des œufs
+The match was intense	Le match était intense
+He speaks five languages fluently	Il parle couramment cinq langues
+She works full-time at the hospital	Elle travaille à plein temps à l'hôpital
+They live in a large city	Ils vivent dans une grande ville
+The door has a wooden handle	La porte a une poignée en bois
+I received an invitation to the party	J'ai reçu une invitation à la fête
+We visited the national park	Nous avons visité le parc national
+The spring flowers are blooming	Les fleurs du printemps épanouissent
+He writes articles for a website	Il écrit des articles pour un site web
+She cooks a traditional meal	Elle cuisine un repas traditionnel
+They play tennis on the weekends	Ils jouent au tennis le week-end
+The snow is melting fast	La neige fond rapidement
+I lost my ring in the ocean	J'ai perdu ma bague dans l'océan
+We are planning a trip to Rome	Nous planifions un voyage à Rome
+The dentist advised me to brush	Le dentiste m'a conseillé de me brosser les dents
+He plays bass in a jazz band	Il joue de la basse dans un groupe de jazz
+She translates legal agreements	Elle traduit des contrats juridiques
+They feed the pigeons in the square	Ils nourrissent les pigeons sur la place
+The window reflects the garden	La fenêtre reflète le jardin
+I enjoy walking in the forest	J'aime marcher dans la forêt
+We are going to the concert tomorrow	Nous allons au concert demain
+The museum is an educational place	Le musée est un lieu éducatif
+He drives a black sedan	Il conduit une berline noire
+She loves to wear modern jackets	Elle adore porter des vestes modernes
+They built a concrete wall	Ils ont construit un mur en béton
+The autumn is very rainy here	L'automne est très pluvieux ici
+The keys are missing from my coat pocket	Les clés manquent dans la poche de mon manteau
+I will send you the confirmation email shortly	Je vous enverrai l'e-mail de confirmation sous peu
+We discovered a quiet path through the mountains	Nous avons découvert un sentier tranquille à travers les montagnes
+The chef prepared a special menu for the guests	Le chef a préparé un menu spécial pour les invités
+She enjoys listening to classical music at night	Elle aime écouter de la musique classique la nuit
+They bought a house with a huge backyard	Ils ont acheté une maison avec un immense jardin
+The local library is closed on bank holidays	La bibliothèque locale est fermée les jours fériés
+He lost his balance and fell off the bicycle	Il a perdu l'équilibre et est tombé de sa bicyclette
+We need to complete this layout task by midnight	Nous devons terminer cette tâche de mise en page avant minuit
+The flight was delayed due to heavy fog	Le vol a été retardé en raison d'un brouillard épais
+She teaches chemistry at a prestigious college	Elle enseigne la chimie dans un collège prestigieux
+They spent their vacation exploring small islands	Ils ont passé leurs vacances à explorer de petites îles
+The old wooden bridge is safe to cross	Le vieux pont en bois est sûr à traverser
+I cannot find my passport anywhere in the room	Je ne trouve mon passeport nulle part dans la chambre
+We always have a big dinner on Christmas Eve	Nous dînons toujours copieusement le soir du réveillon de Noël
+The engine makes a strange noise when starting	Le moteur fait un bruit étrange au démarrage
+He decided to paint his front door bright green	Il a décidé de peindre sa porte d'entrée en vert vif
+She always drinks warm milk before going to bed	Elle boit toujours du lait chaud avant de se coucher
+They are planning to build a modern art gallery	Ils prévoient de construire une galerie d'art moderne
+The weather forecast predicts heavy snow tomorrow	Les prévisions météo annoncent de fortes chutes de neige demain
+I bought a new pair of leather boots today	J'ai acheté une nouvelle paire de bottes en cuir aujourd'hui
+We walked around the lake during the sunset	Nous avons marché autour du lac pendant le coucher du soleil
+The new software update fixed several critical bugs	La nouvelle mise à jour logicielle a corrigé plusieurs bugs critiques
+He runs five miles every morning before breakfast	Il court cinq milles tous les matins avant le petit déjeuner
+She wrote a deeply touching letter to her family	Elle a écrit une lettre profondément touchante à sa famille
+They regular meet up to discuss global politics	Ils se réunissent régulièrement pour discuter de politique mondiale
+The flower shop on the corner sells fresh roses	Le fleuriste du coin vend des roses fraîches
+I accidentally left my umbrella inside the taxi	J'ai accidentellement laissé mon parapluie dans le taxi
+We absolute love spending our summers in France	Nous adorons absolument passer nos étés en France
+The computer screen is covered in fingerprints	L'écran de l'ordinateur est couvert d'empreintes digitales
+He works long hours as a financial consultant	Il travaille de longues heures comme consultant financier
+She loves baking fresh apple pies on Sundays	Elle adore cuisiner des tartes aux pommes fraîches le dimanche
+They live in a beautiful apartment facing the river	Ils vivent dans un bel appartement face à la rivière
+The soup needs a little more salt and pepper	La soupe a besoin d'un peu plus de sel et de poivre
+I need to renew my driver's license next week	Je dois renouveler mon permis de conduire la semaine prochaine
+We crossed the crowded street near the station	Nous avons traversé la rue bondée près de la gare
+The organic market opens at dawn on Saturdays	Le marché biologique ouvre à l'aube le samedi
+He finished his science project ahead of schedule	Il a terminé son projet scientifique en avance sur le calendrier
+She wears a beautiful silver bracelet on her wrist	Elle porte un beau bracelet en argent au poignet
+They went to see a broadway play last month	Ils sont allés voir une pièce de théâtre à Broadway le mois dernier
+The morning train is usually packed with commuters	Le train du matin est généralement bondé de banlieusards
+I look forward to collaborating with your team	J'ai hâte de collaborer avec votre équipe
+You have a truly wonderful collection of vinyl records	Vous avez une collection de disques vinyles vraiment magnifique
+The bread at this bakery is always crunchy	Le pain de cette boulangerie est toujours croustillant
+We explored the narrow corridors of the old castle	Nous avons exploré les couloirs étroits du vieux château
+He answered the emergency phone call within seconds	Il a répondu à l'appel téléphonique d'urgence en quelques secondes
+She decided to dye her hair dark brown	Elle a décidé de se teindre les cheveux en brun foncé
+They gladly share their knowledge with the students	Ils partagent volontiers leurs connaissances avec les étudiants
+The coffee machine requires immediate maintenance	La machine à café nécessite un entretien immédiat
+I saw an interesting shooting star last night	J'ai vu une étoile filante intéressante la nuit dernière
+We prefer walking through the quiet botanical gardens	Nous préférons nous promener dans les jardins botaniques calmes
+The final exam is extremely difficult to pass	L'examen final est extrêmement difficile à réussir
+He teaches history to middle school children	Il enseigne l'histoire à des enfants du collège
+She is actively looking for a room to rent	Elle cherche activement une chambre à louer
+They practice their instruments for hours every day	Ils pratiquent leurs instruments pendant des heures chaque jour
+The hot chocolate was served with mini marshmallows	Le chocolat chaud était servi avec des mini guimauves
+I am currently reading a fascinating historical biography	Je lis actuellement une biographie historique fascinante
+We celebrated their golden wedding anniversary yesterday	Nous avons célébré leur anniversaire de mariage d'or hier
+The map of the subway network is confusing	La carte du réseau de métro est déroutante
+He vacuums his entire house every Friday afternoon	Il passe l'aspirateur dans toute sa maison tous les vendredis après-midi
+She won first place in the writing contest	Elle a remporté la première place au concours d'écriture
+They often debate about economics and resource distribution	Ils débattent souvent d'économie et de distribution des ressources
+The golden retriever jumped into the cold river	Le golden retriever a sauté dans la rivière froide
+I will text you when I arrive home	Je t'enverrai un SMS quand j'arriverai à la maison
+We need to pick up a few items	Nous devons récupérer quelques articles
+The theater performance received a standing ovation	La performance théâtrale a reçu une ovation debout
+He speaks five dialects of Chinese fluently	Il parle couramment cinq dialectes du chinois
+She works part-time as a tourist guide	Elle travaille à temps partiel comme guide touristique
+They moved into a cozy cottage by the sea	Ils ont emménagé dans un chalet confortable au bord de la mer
+The main entrance has an automatic glass door	L'entrée principale a une porte vitrée automatique
+I received a funny postcard from my cousin	J'ai reçu une carte postale amusante de mon cousin
+We visited the national monument during our holiday	Nous avons visité le monument national pendant nos vacances
+The red leaves cover the ground in October	Les feuilles rouges couvrent le sol en octobre
+He writes scripts for successful television series	Il écrit des scénarios pour des séries télévisées à succès
+She cooked a traditional Sunday roast for everyone	Elle a cuisiné un rôti du dimanche traditionnel pour tout le monde
+They love playing beach volleyball during the summer	Ils adorent jouer au volley-ball de plage pendant l'été
+The thick glacier is melting due to climate change	Le glacier épais fond en raison du changement climatique
+I dropped my keys somewhere in the sandbox	J'ai fait tomber mes clés quelque part dans le bac à sable
+We are planning a massive road trip across Canada	Nous planifions un grand voyage en voiture à travers le Canada
+The emergency room nurse told him to rest	L'infirmière des urgences lui a dit de se reposer
+He plays acoustic guitar in a jazz club	Il joue de la guitare acoustique dans un club de jazz
+She translates ancient manuscripts into modern languages	Elle traduit des manuscrits anciens en langues modernes
+They feed the hungry pigeons near the fountain	Ils nourrissent les pigeons affamés près de la fontaine
+The crystal clear window reflects the beautiful sunset	La fenêtre transparente reflète le magnifique coucher de soleil
+I love walking through the park during autumn	J'aime me promener dans le parc pendant l'automne
+We are going to the science museum tomorrow morning	Nous allons au musée des sciences demain matin
+The public library is an excellent study space	La bibliothèque publique est un excellent espace d'étude
+He drives an old green delivery truck	Il conduit un vieux camion de livraison vert
+She loves to wear long flowing cotton skirts	Elle adore porter de longues jupes amples en coton
+They constructed a large stone wall around the property	Ils ont construit un grand mur de pierre autour de la propriété
+The winter season is exceptionally long this year	La saison d'hiver est exceptionnellement longue cette année
+Please step away from the closing doors	S'il vous plaît, éloignez-vous des portes qui se ferment
+He is searching everywhere for his lost wallet	Il cherche partout son portefeuille perdu
+She purchased a rare vintage painting at the auction	Elle a acheté un tableau vintage rare aux enchères
+We watched the spectacular sunrise over the ocean	Nous avons regardé le lever de soleil spectaculaire sur l'océan
+They listen to the professor with absolute attention	Ils écoutent le professeur avec une attention absolue
+The pure water in the mountain stream is refreshing	L'eau pure du ruisseau de montagne est rafraîchissante
+I want to eat a fresh green apple	Je veux manger une pomme verte fraîche
+We are entirely ready to start the tournament	Nous sommes entièrement prêts à commencer le tournoi
+He completely forgot his secure login credentials	Il a complètement oublié ses identifiants de connexion sécurisés
+She works in a high-tech chemical laboratory	Elle travaille dans un laboratoire chimique de haute technologie
+They built a safe campfire near the lake	Ils ont fait un feu de camp sûr près du lac
+The fresh bread smells absolutely incredible	Le pain frais sent absolument incroyable
+I urgently need a new pair of running shoes	J'ai un besoin urgent d'une nouvelle paire de chaussures de course
+We are going to visit our relatives next month	Nous allons rendre visite à nos proches le mois prochain
+He loves to read classic science fiction novels	Il aime lire des romans classiques de science-fiction
+She practices the cello for three hours every day	Elle pratique le violoncelle pendant trois heures chaque jour
+They speak standard European Spanish fluently	Ils parlent couramment l'espagnol européen standard
+The birds gather dry twigs for their nests	Les oiseaux ramassent des brindilles sèches pour leurs nids
+I want a cold glass of iced coffee	Je veux un verre froid de café glacé
+We crossed the wide river using a wooden raft	Nous avons traversé la large rivière en utilisant un radeau en bois
+The luxury hotel is incredibly clean and comfortable	L'hôtel de luxe est incroyablement propre et confortable
+He completed the online assessment very early	Il a terminé l'évaluation en ligne très tôt
+She wears an elegant diamond ring on her finger	Elle porte une élégante bague en diamant au doigt
+They go snowboarding every single winter holiday	Ils vont faire du snowboard à chaque vacances d'hiver
+The city bus arrives precisely at five o'clock	Le bus de la ville arrive précisément à cinq heures
+I look forward to the upcoming summer holidays	J'attends avec impatience les prochaines vacances d'été
+You have a beautiful garden full of colorful roses	Vous avez un magnifique jardin plein de roses colorées
+The organic milk must be kept cold	Le lait biologique doit être gardé au frais
+We visited the historical ruins of the pyramid	Nous avons visité les ruines historiques de la pyramide
+He replies to all customer emails immediately	Il répond immédiatement à tous les e-mails des clients
+She paints her small bedroom light blue	Elle peint sa petite chambre en bleu clair
+The small children share their colorful toys	Les petits enfants partagent leurs jouets colorés
+The black tea is too sweet to drink comfortably	Le thé noir est trop sucré pour être bu confortablement
+I can see a large cruise ship in the distance	Je peux voir un grand navire de croisière au loin
+We walk through the central park every afternoon	Nous marchons dans le parc central chaque après-midi
+This complex university assignment requires thorough research	Ce devoir universitaire complexe nécessite des recherches approfondies
+He teaches molecular chemistry to advanced students	Il enseigne la chimie moléculaire à des étudiants avancés
+She is looking everywhere for her lost cat	Elle cherche son chat perdu partout
+They practice long-distance running every single morning	Ils s'entraînent à la course de fond tous les matins
+The morning espresso coffee is exceptionally strong	Le café expresso du matin est exceptionnellement fort
+I am currently reading a classic Russian novel	Je lis actuellement un roman classique russe
+We happily celebrated their beautiful wedding ceremony	Nous avons joyeusement célébré leur magnifique cérémonie de mariage
+The assembly guide is very easy to read	Le guide d'assemblage est très facile à lire
+He cleans his office desk every single evening	Il nettoie son bureau chaque soir
+She won a highly competitive chess tournament	Elle a gagné un tournoi d'échecs très compétitif
+They often talk about modern fashion trends	Ils parlent souvent des tendances de la mode moderne
+The sleepy koala climbs the tall eucalyptus tree	Le koala endormi grimpe sur le grand eucalyptus
+I will fix the broken window tomorrow morning	Je réparerai la fenêtre cassée demain matin
+We need to buy a dozen fresh eggs	Nous devons acheter une douzaine d'œufs frais
+The championship football match was incredibly intense	Le match de football du championnat était incroyablement intense
+He speaks six international languages completely fluently	Il parle couramment six langues internationales
+She works full-time at the general hospital	Elle travaille à plein temps à l'hôpital général
+They live in a large metropolitan city	Ils vivent dans une grande ville métropolitaine
+The heavy door has a beautiful wooden handle	La lourde porte a une belle poignée en bois
+I received an official invitation to the party	J'ai reçu une invitation officielle à la fête
+We spent a week visiting the national park	Nous avons passé une semaine à visiter le parc national
+The beautiful spring flowers are finally blooming	Les belles fleurs du printemps s'épanouissent enfin
+He writes analytical articles for a popular website	Il écrit des articles analytiques pour un site web populaire
+She cooks a traditional three-course meal for dinner	Elle cuisine un repas traditionnel à trois plats pour le dîner
+They regularly play tennis on the weekends	Ils jouent régulièrement au tennis le week-end
+The thick snow is melting remarkably fast	La neige épaisse fond remarquablement vite
+I unfortunately lost my gold ring in the ocean	J'ai malheureusement perdu ma bague en or dans l'océan
+We are planning a dream trip to Rome next year	Nous planifions un voyage de rêve à Rome l'année prochaine
+The local dentist advised me to brush twice daily	Le dentiste local m'a conseillé de me brosser les dents deux fois par jour
+He plays bass guitar in a professional jazz band	Il joue de la basse dans un groupe de jazz professionnel
+She translates complex legal agreements for global companies	Elle traduit des contrats juridiques complexes pour des entreprises mondiales
+They feed the white pigeons in the public square	Ils nourrissent les pigeons blancs sur la place publique
+The large bedroom window reflects the green garden	La grande fenêtre de la chambre reflète le jardin verdoyant
+I truly enjoy walking in the dense forest	J'aime vraiment marcher dans la forêt dense
+We are definitely going to the live concert tomorrow	Nous allons certainement au concert en direct demain
+The historical museum is a highly educational place	Le musée historique est un lieu hautement éducatif
+He drives a black luxury sedan to work	Il conduit une berline de luxe noire pour aller au travail
+She loves to wear modern leather jackets	Elle adore porter des vestes en cuir modernes
+They built a thick concrete wall for safety	Ils ont construit un épais mur en béton pour la sécurité
+The autumn weather is very rainy here	Le temps d'automne est très pluvieux ici
+Always look both ways before crossing the road	Regardez toujours des deux côtés avant de traverser la route
+Please verify your entry details before submitting	Veuillez vérifier vos informations de saisie avant de soumettre
+He decided to adopt a puppy from the shelter	Il a décidé d'adopter un chiot du refuge
+She bought an expensive leather bag yesterday	Elle a acheté un sac en cuir cher hier
+We watched the storm clouds gather over the hills	Nous avons regardé les nuages d'orage s'accumuler sur les collines
+They follow the instructions carefully to avoid mistakes	Ils suivent attentivement les instructions pour éviter les erreurs
+The water temperature in the pool is pleasant	La température de l'eau dans la piscine est agréable
+I want to drink a hot cup of tea	Je veux boire une tasse de thé chaud
+We are ready to board the international flight	Nous sommes prêts à embarquer sur le vol international
+He lost his car keys inside the supermarket	Il a perdu ses clés de voiture dans le supermarché
+She works as a manager at a local bank	Elle travaille comme directrice dans une banque locale
+They built a cozy treehouse for the kids	Ils ont construit une cabane confortable dans les arbres pour les enfants
+The fresh coffee smells wonderful every single morning	Le café frais sent merveilleusement bon chaque matin
+I need a reliable pair of winter boots	J'ai besoin d'une paire de bottes d'hiver fiable
+We are going to buy a new dining table	Nous allons acheter une nouvelle table de salle à manger
+He likes to watch historical documentaries on television	Il aime regarder des documentaires historiques à la télévision
+She practices her dance routine in front of the mirror	Elle pratique sa routine de danse devant le miroir
+They speak French with a perfect Parisian accent	Ils parlent français avec un parfait accent parisien
+The small chipmunks store seeds for the winter	Les petits tamias stockent des graines pour l'hiver
+I want a large slice of chocolate cake	Je veux une grande part de gâteau au chocolat
+We crossed the high mountain pass on foot	Nous avons traversé le col de haute montagne à pied
+The business hotel is situated near the center	L'hôtel d'affaires est situé près du centre
+He finished his workout session earlier than usual	Il a terminé sa séance d'entraînement plus tôt que d'habitude
+She wears an elegant pearl necklace to the gala	Elle porte un élégant collier de perles pour le gala
+They go ice skating on the frozen lake	Ils vont patiner sur le lac gelé
+The regional train arrives at exactly six o'clock	Le train régional arrive à exactement six heures
+I look forward to attending the tech conference	J'attends avec impatience d'assister à la conférence technologique
+You have a spectacular view from your balcony	Vous avez une vue spectaculaire depuis votre balcon
+The fresh orange juice must be kept refrigerated	Le jus d'orange frais doit être conservé au réfrigérateur
+We visited the ancient amphitheater during our holiday	Nous avons visité l'amphithéâtre antique pendant nos vacances
+He answers the phone calls with a polite voice	Il répond aux appels téléphoniques d'une voix polie
+She paints the kitchen walls a bright yellow	Elle peint les murs de la cuisine en jaune vif
+The team members share their ideas during meetings	Les membres de l'équipe partagent leurs idées lors des réunions
+The green tea is too bitter without honey	Le thé vert est trop amer sans miel
+I see a helicopter flying over the city	Je vois un hélicoptère voler au-dessus de la ville
+We walk through the historic streets of Paris	Nous marchons dans les rues historiques de Paris
+The science experiment requires a special microscope	L'expérience scientifique nécessite un microscope spécial
+He teaches world geography to high school classes	Il enseigne la géographie mondiale à des classes de lycée
+She is searching for a comfortable pair of shoes	Elle cherche une paire de chaussures confortables
+They practice swimming techniques every single afternoon	Ils s'entraînent aux techniques de natation chaque après-midi
+The morning double espresso is incredibly strong	Le double expresso du matin est incroyablement fort
+I am reading an inspiring autobiography right now	Je lis une autobiographie inspirante en ce moment
+We celebrated her promotion with a nice dinner	Nous avons célébré sa promotion avec un bon dîner
+The user manual is straightforward to read	Le manuel d'utilisation est simple à lire
+He cleans his kitchen counters every evening	Il nettoie ses comptoirs de cuisine chaque soir
+She won a prestigious regional science award	Elle a remporté un prestigieux prix scientifique régional
+They often talk about environmental conservation efforts	Ils parlent souvent des efforts de conservation de l'environnement
+The small koala clings tightly to the branch	Le petit koala s'accroche fermement à la branche
+I will fix the leaky faucet tomorrow morning	Je réparerai le robinet qui fuit demain matin
+We need to buy some organic vegetables	Nous devons acheter des légumes biologiques
+The tennis match was extremely close and exciting	Le match de tennis était extrêmement serré et passionnant
