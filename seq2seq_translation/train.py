@@ -668,16 +668,6 @@ print("Problem 2 BLEU-4:", attention_bleu)
 print("Problem 2 Training Time:", attention_time)
 print("Problem 2 Parameters:", count_parameters(attention_en_fr))
 
-print("Training Problem 2 Attention GRU English-to-French")
-
-attention_train_losses, attention_val_losses, attention_time = train_model(
-    attention_en_fr,
-    train_loader_en_fr,
-    val_loader_en_fr,
-    epochs=EPOCHS,
-    lr=LEARNING_RATE
-)
-
 # =========================
 # Problem 2 Loss Plot
 # =========================
