@@ -1,0 +1,6 @@
+source,target,prediction,exact_match,bleu_score
+she won a tennis match,elle a gagné un match de tennis,elle a une un,False,0.08881915596542085
+the organic market opens at dawn on saturdays,le marché biologique ouvre à l'aube le samedi,le le est,False,0.025520874379338556
+we watch a movie together,nous regardons un film ensemble,nous avons un un,False,0.07440995947486906
+the bread at this bakery is always crunchy,le pain de cette boulangerie est toujours croustillant,le est est,False,0.025520874379338556
+we dance at the wedding,nous dansons au mariage,nous avons la la,False,0.08034284189446518

@@ -1,0 +1,6 @@
+source,target,prediction,exact_match,bleu_score
+elle a gagné un match de tennis,she won a tennis match,she she a a a,False,0.06389431042462725
+le marché biologique ouvre à l'aube le samedi,the organic market opens at dawn on saturdays,the is the to,False,0.029556479778261396
+nous regardons un film ensemble,we watch a movie together,we are a a,False,0.07440995947486906
+le pain de cette boulangerie est toujours croustillant,the bread at this bakery is always crunchy,the the is the,False,0.0351487760467425
+nous dansons au mariage,we dance at the wedding,we are to the,False,0.07440995947486906

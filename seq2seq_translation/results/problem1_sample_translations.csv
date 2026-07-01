@@ -1,0 +1,6 @@
+source,target,prediction,exact_match,bleu_score
+she won a tennis match,elle a gagné un match de tennis,il la la la,False,0
+the organic market opens at dawn on saturdays,le marché biologique ouvre à l'aube le samedi,il la la la,False,0
+we watch a movie together,nous regardons un film ensemble,il la la la,False,0
+the bread at this bakery is always crunchy,le pain de cette boulangerie est toujours croustillant,il la la la,False,0
+we dance at the wedding,nous dansons au mariage,il la la la,False,0

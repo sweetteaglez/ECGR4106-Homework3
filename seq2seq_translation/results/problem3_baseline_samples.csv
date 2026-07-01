@@ -1,0 +1,6 @@
+source,target,prediction,exact_match,bleu_score
+elle a gagné un match de tennis,she won a tennis match,the the a the,False,0.06257106818159155
+le marché biologique ouvre à l'aube le samedi,the organic market opens at dawn on saturdays,the the a the,False,0.029556479778261396
+nous regardons un film ensemble,we watch a movie together,the the a the,False,0.06257106818159155
+le pain de cette boulangerie est toujours croustillant,the bread at this bakery is always crunchy,the the a the,False,0.029556479778261396
+nous dansons au mariage,we dance at the wedding,the the a the,False,0.06257106818159155

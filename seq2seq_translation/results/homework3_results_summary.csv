@@ -1,0 +1,5 @@
+problem,direction,model,sequence_accuracy,bleu_4,training_time_sec,parameters
+Problem 1,English-to-French,Baseline GRU,0.0,0.014181222613862204,2.372736930847168,398566
+Problem 2,English-to-French,Attention GRU,0.0,0.0502394411153129,2.3675732612609863,578357
+Problem 3,French-to-English,Baseline GRU,0.0,0.0340419811495247,1.7805931568145752,384634
+Problem 3,French-to-English,Attention GRU,0.0,0.05523663259509864,2.324984312057495,550601
