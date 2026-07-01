@@ -271,74 +271,8 @@ class Seq2SeqBaseline(nn.Module):
 
         return outputs
 
-  # =========================
-# Attention Decoder
+
 # =========================
-
-class AttentionDecoderGRU(nn.Module):
-    def __init__(self, output_size, embed_size, hidden_size):
-        super(AttentionDecoderGRU, self).__init__()
-
-        self.embedding = nn.Embedding(output_size, embed_size, padding_idx=0)
-
-        self.attention = nn.Linear(hidden_size * 2, MAX_LEN)
-        self.gru = nn.GRU(embed_size + hidden_size, hidden_size, batch_first=True)
-        self.fc = nn.Linear(hidden_size * 2, output_size)
-
-    def forward(self, input_token, hidden, encoder_outputs):
-        input_token = input_token.unsqueeze(1)
-        embedded = self.embedding(input_token)
-
-        hidden_last = hidden[-1]
-        attention_input = torch.cat((embedded.squeeze(1), hidden_last), dim=1)
-
-        attention_weights = torch.softmax(self.attention(attention_input), dim=1)
-        attention_weights = attention_weights.unsqueeze(1)
-
-        context = torch.bmm(attention_weights, encoder_outputs)
-
-        gru_input = torch.cat((embedded, context), dim=2)
-        output, hidden = self.gru(gru_input, hidden)
-
-        output = output.squeeze(1)
-        context = context.squeeze(1)
-
-        prediction = self.fc(torch.cat((output, context), dim=1))
-
-        return prediction, hidden, attention_weights.squeeze(1)
-
-
-class Seq2SeqAttention(nn.Module):
-    def __init__(self, encoder, decoder, device):
-        super(Seq2SeqAttention, self).__init__()
-
-        self.encoder = encoder
-        self.decoder = decoder
-        self.device = device
-
-    def forward(self, source, target, teacher_forcing_ratio=0.5):
-        batch_size = source.shape[0]
-        target_len = target.shape[1]
-        target_vocab_size = self.decoder.fc.out_features
-
-        outputs = torch.zeros(batch_size, target_len, target_vocab_size).to(self.device)
-
-        encoder_outputs, hidden = self.encoder(source)
-
-        input_token = target[:, 0]
-
-        for t in range(1, target_len):
-            output, hidden, attention_weights = self.decoder(input_token, hidden, encoder_outputs)
-            outputs[:, t, :] = output
-
-            use_teacher_forcing = random.random() < teacher_forcing_ratio
-            top1 = output.argmax(1)
-
-            input_token = target[:, t] if use_teacher_forcing else top1
-
-        return outputs
-
-  # =========================
 # Training and Validation Functions
 # =========================
 
