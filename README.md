@@ -2,6 +2,7 @@
 
 **Name:** Samantha Gonzalez  
 **Student ID:** 801353957
+
 **Course:** ECGR 4106 Introduction to Deep Learning  
 **Assignment:** Homework 3  
 **Topic:** Sequence-to-Sequence Machine Translation  
