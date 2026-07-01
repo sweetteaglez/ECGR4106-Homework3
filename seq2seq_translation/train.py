@@ -629,13 +629,6 @@ class Seq2SeqAttention(nn.Module):
 
         return outputs
 
-  def make_attention_model(source_vocab_size, target_vocab_size, embed_size=64, hidden_size=128):
-    encoder = EncoderGRU(source_vocab_size, embed_size, hidden_size)
-    decoder = AttentionDecoderGRU(target_vocab_size, embed_size, hidden_size)
-
-    model = Seq2SeqAttention(encoder, decoder, device).to(device)
-    return model
-
 attention_en_fr = make_attention_model(
     len(eng_vocab),
     len(fra_vocab),
