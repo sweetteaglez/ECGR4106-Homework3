@@ -1,6 +1,7 @@
 # =========================
 # ECGR 4106 Homework 3
 # Name: Samantha Gonzalez
+# Student ID: 801353957
 # Sequence-to-Sequence Machine Translation
 # =========================
 
